@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @glawkkj
+- 👀 I’m interested in programming front-end
+- 🌱 I’m currently learning JavaScript
